@@ -1,4 +1,3 @@
-"""Задачи первой части лабораторной: Pandas и Titanic."""
 from __future__ import annotations
 import pandas as pd
 from grader_contracts.pandas_tasks import TitanicInput, TitanicSummary
